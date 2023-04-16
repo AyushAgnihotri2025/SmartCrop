@@ -2,6 +2,8 @@
 
 # SmartCrop: Intelligent Crop Recommendation
 
+## Theme: AgroTech
+
 <p align="center">
    <img width="50%" src="https://user-images.githubusercontent.com/106915790/232244703-f44b3a75-1565-41ab-aab1-5fe4cb745383.jpg" />
 </p>
@@ -52,6 +54,7 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
 
 # Demo
 **Live Demo:** http://34.82.65.249:6620/ or https://smartcrop.mrayush.me
+
 **Video Demo:**
 
 
